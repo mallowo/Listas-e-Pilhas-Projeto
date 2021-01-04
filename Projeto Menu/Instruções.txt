@@ -1,0 +1,34 @@
+lulu peladaOntem às 18:29
+Projeto 1
+
+Criar um programa em Java que implemente:
+
+•Lista Sequencial
+
+•Lista Encadeada
+
+•Pilha Sequencial
+
+•Pilha Encadeada
+
+•
+
+Deve ser disponibilizado um menu inicial contendo as 4 opções para o usuário. A partir do momento da escolha entre uma das opções, deve-se direcionar o usuário para as interações com a estrutura de dados correspondente.
+
+
+
+Dicas para as opções de PILHA:
+
+•Os elementos que devem ser inseridos são nomes de pessoas (String nome).
+
+•Todas as implementações foram (ou serão) feitas em sala de aula.
+
+•É só modificar os projetos para interagir com o usuário;
+
+•Mostrar um menu com 4 opções: (i) inserir elemento (push), (ii) remover (pop), (iii) exibir os elementos e (iv) voltar para o menu anterior;
+
+•Para inserir, o programa deve perguntar ao usuário qual nome ele quer colocar no topo da pilha.
+
+
+
+Usem essas dicas para LISTAS também.
